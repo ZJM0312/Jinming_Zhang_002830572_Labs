@@ -130,6 +130,6 @@ public class ViewJPanel extends javax.swing.JPanel {
         txtName.setText(product.getName());
         txtDescr.setText(product.getDescr());
         txtPrice.setText(product.getPrice());
-        txtAvailNum.setText(product.getAvailNum());
+        txtAvailNum.setText(product.getAvailnum());
     }
 }

@@ -48,13 +48,7 @@ public class Product{
         this.price = price;
     }
 
-    public void setAvailNum(String text) {
 
-    }
-
-    public String getAvailNum() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
     
     
 }

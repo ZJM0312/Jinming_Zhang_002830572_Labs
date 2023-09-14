@@ -132,7 +132,7 @@ public class CreateJPanel extends javax.swing.JPanel {
         product.setName(txtName.getText());
         product.setDescr(txtDescr.getText());
         product.setPrice(txtPrice.getText());
-        product.setAvailNum(txtAvailNum.getText());
+        product.setAvailnum(txtAvailNum.getText());
         
         JOptionPane.showMessageDialog(this, "Product Information Saved");
         
